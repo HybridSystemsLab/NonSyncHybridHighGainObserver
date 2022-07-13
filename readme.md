@@ -1,4 +1,5 @@
-**Non Synchronized Semi-Global High-Gain Hybrid Observer for a Class of Hybrid Dynamical Systems with Unknown Jump Times**
+Non Synchronized Semi-Global High-Gain Hybrid Observer for a Class of Hybrid Dynamical Systems with Unknown Jump Times
+==============================================
 
 This repository contains Matlab/Simulink code to implement a semiglobal hybrid observer for any hybrid dynamical system with:
  1. strongly differentially observable flow/jump maps,
